@@ -1,0 +1,4 @@
+gfl
+===
+
+GlobalFriendsLocator
